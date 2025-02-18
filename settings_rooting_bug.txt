@@ -1,0 +1,2 @@
+Amikor a settings oldalon be van töltve egy aloldal és megint rányomunk a settingsre vezető gombra akkor a settings megjelenik
+Ez nem működhetne így mivel amikor a settingsre megyünk akkor autómatikusan átirányít minket a settings/profile oldalra
